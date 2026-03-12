@@ -1,0 +1,13 @@
+title: TamTalk
+description: TamTalk project site
+markdown: kramdown
+theme: minima
+
+exclude:
+  - UI/moble/android/build/
+  - UI/moble/android/app/build/
+  - UI/moble/android/.gradle/
+  - VST/vst3-plugin/build/
+  - VST/vst3-plugin/build-nmake/
+  - VST/JUCE/
+  - release/
