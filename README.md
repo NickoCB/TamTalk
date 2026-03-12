@@ -14,6 +14,8 @@ Prebuilt binaries are in the `release` folder:
 
 Official releases: https://github.com/NickoCB/TamTalk/releases
 
+Official APK release (Google Play): https://play.google.com/store/apps/details?id=com.nickobalbastro.tamtalk
+
 ## Default connection
 
 - UDP port: `9240`
