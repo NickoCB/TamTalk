@@ -1,4 +1,4 @@
-package com.example.tamtalk.audio
+package com.nickobalbastro.tamtalk.audio
 
 import android.media.AudioFormat
 import android.media.AudioRecord

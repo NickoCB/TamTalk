@@ -1,4 +1,4 @@
-package com.example.tamtalk
+package com.nickobalbastro.tamtalk
 
 import org.junit.Test
 

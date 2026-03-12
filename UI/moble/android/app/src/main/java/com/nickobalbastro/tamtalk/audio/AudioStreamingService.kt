@@ -1,4 +1,4 @@
-package com.example.tamtalk.audio
+package com.nickobalbastro.tamtalk.audio
 
 import android.app.Notification
 import android.app.NotificationChannel
@@ -9,7 +9,7 @@ import android.os.Build
 import android.os.IBinder
 import android.os.PowerManager
 import androidx.core.app.NotificationCompat
-import com.example.tamtalk.R
+import com.nickobalbastro.tamtalk.R
 
 class AudioStreamingService : Service() {
     companion object {
@@ -17,10 +17,10 @@ class AudioStreamingService : Service() {
         private const val channelName = "TamTalk Streaming"
         private const val notificationId = 1001
 
-        const val actionStart = "com.example.tamtalk.action.START_STREAM"
-        const val actionStop = "com.example.tamtalk.action.STOP_STREAM"
-        const val actionUpdateVolume = "com.example.tamtalk.action.UPDATE_VOLUME"
-        const val actionUpdateTransmitMode = "com.example.tamtalk.action.UPDATE_TRANSMIT_MODE"
+        const val actionStart = "com.nickobalbastro.tamtalk.action.START_STREAM"
+        const val actionStop = "com.nickobalbastro.tamtalk.action.STOP_STREAM"
+        const val actionUpdateVolume = "com.nickobalbastro.tamtalk.action.UPDATE_VOLUME"
+        const val actionUpdateTransmitMode = "com.nickobalbastro.tamtalk.action.UPDATE_TRANSMIT_MODE"
 
         const val extraHost = "extra_host"
         const val extraPort = "extra_port"

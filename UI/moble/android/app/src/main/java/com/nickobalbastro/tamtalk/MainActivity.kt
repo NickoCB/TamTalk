@@ -1,4 +1,4 @@
-package com.example.tamtalk
+package com.nickobalbastro.tamtalk
 
 import android.Manifest
 import android.app.Activity
@@ -44,10 +44,10 @@ import androidx.compose.ui.unit.dp
 import androidx.core.content.ContextCompat
 import androidx.core.content.ContextCompat.startForegroundService
 import androidx.compose.foundation.layout.Row
-import com.example.tamtalk.R
-import com.example.tamtalk.audio.AudioUdpSender
-import com.example.tamtalk.audio.AudioStreamingService
-import com.example.tamtalk.ui.theme.TamtalkTheme
+import com.nickobalbastro.tamtalk.R
+import com.nickobalbastro.tamtalk.audio.AudioUdpSender
+import com.nickobalbastro.tamtalk.audio.AudioStreamingService
+import com.nickobalbastro.tamtalk.ui.theme.TamtalkTheme
 import kotlinx.coroutines.flow.MutableSharedFlow
 import kotlinx.coroutines.flow.collectLatest
 

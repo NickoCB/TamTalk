@@ -1,4 +1,4 @@
-package com.example.tamtalk.ui.theme
+package com.nickobalbastro.tamtalk.ui.theme
 
 import android.app.Activity
 import android.os.Build
