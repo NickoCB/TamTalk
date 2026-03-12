@@ -10,7 +10,7 @@ Prebuilt binaries are in the `release` folder:
 
 - `release/vst/*.vst3`
 
-Official releases: https://github.com/NickoCB/TamTalk/releases
+Official releases: https://github.com/nickobalbastro/TamTalk/releases
 
 Official APK release (Google Play): https://play.google.com/store/apps/details?id=com.nickobalbastro.tamtalk
 
